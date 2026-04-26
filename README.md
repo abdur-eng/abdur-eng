@@ -1,16 +1,38 @@
-## Hi there 👋
+# Abdur Rahman
 
-<!--
-**abdur-eng/abdur-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student | Systems Builder
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+
+Currently building and exploring:
+
+- Local AI assistants  
+- System design and architecture  
+- Linux and low-level systems  
+- Hardware + software integration  
+
+---
+
+## Approach
+
+Building systems that connect software, hardware, and real-world use.
+
+Focused on depth, scalability, and long-term engineering rather than short-term projects.
+
+---
+
+## Tools
+
+Python • Java • Linux  
+Ollama • SQLite  
+HTML • CSS
+
+---
+
+## Links
+
+Portfolio: https://abdur.net  
+LinkedIn: https://www.linkedin.com/in/abdur604  
+Email: contact@abdur.net
